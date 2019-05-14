@@ -1,7 +1,7 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.11.0"
 
-set :application, "apche_deploy"
+set :application, "apache_deploy"
 set :repo_url, "git@github.com:MuruganKrishna/apache_deploy.git"
 set :deploy_to, '/var/www/apache_deploy'
 append :linked_files, "config/database.yml", "config/secrets.yml"
