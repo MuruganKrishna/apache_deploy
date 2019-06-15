@@ -1,0 +1,24 @@
+https://www.cleartrip.com/flight-booking/air-china-airlines-flight-pnr-status.html		common
+https://www.cleartrip.com/flight-booking/indigo-airlines-web-check-in.html		common
+https://www.cleartrip.com/flight-schedule/bangalore-hyderabad-flights.html       unique
+https://www.cleartrip.com/flight-booking/indigo-airlines-flight-pnr-status.html  unique
+https://www.cleartrip.com/flight-booking/png-air-airlines.html					 common
+https://www.cleartrip.com/flight-booking/indigo-airlines-web-check-in.html       common
+https://www.cleartrip.com/flight-schedule/atlanta-miami-flights.html             unique
+
+
+
+
+
+
+
+https://www.cleartrip.com/flight-booking/indigo-hyderabad-bhubaneswar-flights.html ---default
+https://www.cleartrip.com/flight-booking/air-france-atlanta-chicago-flights.html  --default
+https://www.cleartrip.com/flight-booking/air-france-detroit-new-york-flights.html  --default
+https://www.cleartrip.com/flight-booking/indigo-airlines-flight-pnr-status.html  ---default
+https://www.cleartrip.com/flight-booking/png-air-airlines.html                   ---default
+https://www.cleartrip.com/flight-booking/air-asia-airlines-flight-pnr-status.html  ---default
+https://www.cleartrip.com/flight-booking/indigo-airlines-web-check-in.html ---default
+https://www.cleartrip.com/flight-booking/air-china-airlines-web-check-in.html  ---default
+https://www.cleartrip.com/flight-schedule/bangalore-madurai-flights.html   --default 
+https://www.cleartrip.com/flight-schedule/madurai-dubai-flights.html   --default
