@@ -1,6 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.11.0"
 
+
+
 set :application, "apache_deploy"
 set :repo_url, "git@github.com:MuruganKrishna/apache_deploy.git"
 set :deploy_to, '/var/www/apache_deploy'
@@ -14,6 +16,10 @@ append :linked_dirs, "log", "tmp/pids", "tmp/cache", "tmp/sockets", "vendor/bund
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
+
+
+# set :whenever_command, "bundle exec whenever"
+# require "whenever/capistrano"
 
 # You can configure the Airbrussh format using :format_options.
 # These are the defaults.
